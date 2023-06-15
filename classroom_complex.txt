@@ -1,0 +1,35 @@
+###
+Ron
+Germany
+100
+90
+81
+43
+
+
+###
+Jonathan
+United States
+85
+45
+66
+73
+100
+100
+
+
+
+
+###
+Griffin
+United Kingdom
+food=Hamburger
+color=Blue
+note=Listens in the class
+note=I think she is super smart
+100
+90
+###
+Daniel
+United States
+100
